@@ -1,6 +1,0 @@
-[
-    { "luas_tanah": 100, "luas_ruangan": 50, "fasilitas": ["garasi"], "harga": 1000000, "gambar": "rumah sederhana.png" },
-    { "luas_tanah": 150, "luas_ruangan": 100, "fasilitas": ["kolam_renang", "wifi"], "harga": 3000000, "gambar": "rumah sederhana.png" },
-    { "luas_tanah": 200, "luas_ruangan": 150, "fasilitas": ["garasi", "kolam_renang", "wifi"], "harga": 5000000, "gambar": "rumah sederhana.png" }
-  ]
-  
