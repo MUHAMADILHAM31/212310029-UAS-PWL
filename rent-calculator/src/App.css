@@ -1,0 +1,18 @@
+/* App.css */
+.background {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-image: url('../src/assets/rumah sederhana.png'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.result-container {
+    flex: 1; /* Memastikan kontainer hasil memanjang untuk mengisi ruang tersisa */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
